@@ -1,19 +1,14 @@
-import './App.css';
+import './components/NavBar.js';
 
-CONST App = () => {
+const app = () => {
+
   return (
-  <DIV>
-  <header>
-  <h1>CODER</h1>
-    <nav>
-        <a href="">LINK1</a>
-        <a href="">LINK2</a>
-        <a href="">LINK3</a>
-    </nav>
+    <div>
 
-</header>
-</DIV>
-  );
+    <Navbar/>
+
+    </div>
+)
 }
 
-export default App;
+export default app

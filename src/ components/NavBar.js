@@ -1,8 +1,7 @@
-import './App.css';
 
-CONST App = () => {
+Const NavBar = () => {
   return (
-  <DIV>
+  <div>
   <header>
   <h1>CODER</h1>
     <nav>
@@ -10,10 +9,9 @@ CONST App = () => {
         <a href="">LINK2</a>
         <a href="">LINK3</a>
     </nav>
-
 </header>
-</DIV>
+</div>
   );
 }
 
-export default App;
+export default NavBar;
