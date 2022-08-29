@@ -1,5 +1,4 @@
-
-Const NavBar = () => {
+const NavBar = () => {
   return (
   <div>
   <header>

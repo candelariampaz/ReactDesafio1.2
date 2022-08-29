@@ -1,11 +1,11 @@
-import './components/NavBar.js';
+import NavBar from './components/NavBar.js';
 
 const app = () => {
 
   return (
     <div>
 
-    <Navbar/>
+    <NavBar/>
 
     </div>
 )
